@@ -9,7 +9,7 @@ Print the values in a complete sentence
 
 expected output: Student John is 20 years old and has a GPA of 3.5
  */
-public  class varible_challenge_solution {
+public  class variable_challenge_solution {
 
 
     void main() {
