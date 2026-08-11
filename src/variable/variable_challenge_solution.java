@@ -1,9 +1,11 @@
 package variable;
 /*
 Create 3 variables:
+
 Student name
 Student age
 Student GPA
+
 Store values inside them
 Print the values in a complete sentence
 
@@ -19,7 +21,7 @@ public  class variable_challenge_solution {
         double gpa = 3.5;
 
         System.out.println("Student " + name + " is " + age +
-                " years old and has a GPA of " + gpa);
+                " years old and has a GPA of " + gpa + "value");
     }
 
 }
